@@ -1,0 +1,73 @@
+
+body{
+  background-color: transparent !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+.full {
+    background: url('../images/background-optimzed.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    z-index: 0;
+
+}
+#successContaner {
+  width: 100% !important;
+  height: 100% !important;
+
+}
+.successBox {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 1px solid #C8E0E8;
+  opacity: 0.9;
+  width: 38%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+hr {
+  color: #BDCC37;
+  width: 75%;
+  height: 1px;
+  opacity: .7;
+
+}
+.successText {
+  color: white;
+text-align: center;
+font-size: 1.2em;
+margin-top: 10%;
+padding: 10px;
+}
+.formContainer {
+  position: relative;
+  max-width: 100%;
+  margin-top: 4%;
+}
+
+.form-horizontal  {
+  max-width: 70%;
+  margin-left: 18%;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+
+.form-horizontal label {
+color: white;
+}
+
+.form-horizontal button {
+  border: 1px solid white;
+}
+
+p#titleText {
+color: white;
+text-align: center;
+font-size: 2.5em;
+margin-top: 10%;
+
+
+}
