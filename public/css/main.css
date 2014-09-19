@@ -3,6 +3,11 @@ body{
   background-color: transparent !important;
   font-family: 'Open Sans', sans-serif !important;
 }
+
+#highlight p {
+  color: red !important;
+}
+
 .full {
     background: url('../images/background-optimzed.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
